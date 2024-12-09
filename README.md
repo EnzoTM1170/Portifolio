@@ -1,5 +1,4 @@
-# Projeto de Carro Sustentável com Frenagem Regenerativa e Painéis Solares
-
+# VSER
 Este projeto visa integrar duas tecnologias sustentáveis em um veículo: **frenagem regenerativa** e **painéis solares**, com o objetivo de reduzir o impacto ambiental e melhorar a eficiência energética.
 
 ## Tecnologias e Funcionalidades
